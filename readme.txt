@@ -1,5 +1,5 @@
 === Personalized Activity for Buddypress - Friends, Following, Admin ===
-Contributors: Yaglewad Onkar
+Contributors: Cromacio
 Tags: buddypress, community, social network
 Requires at least: 5.5
 Tested up to: 5.8.1
