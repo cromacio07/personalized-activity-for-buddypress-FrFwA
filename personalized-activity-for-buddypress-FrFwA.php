@@ -3,8 +3,8 @@
 * Plugin Name: Personalized Activity for Buddypress - Friends, Following, Admin
 * Description: Makes Buddypress Activity Personalized For Users, by Including Activity Feeds Only From Users They Are Friends With, Users They Are Following And Administrator of Your Community.
 * Version: 1.0.1
-* Author: Yaglewad Onkar
-* Author URI: https://onkar-yaglewad.pantheonsite.io
+* Author: Cromacio
+* Author URI: https://profiles.wordpress.org/crossbow6/
 * License:      GPL2
 * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 **/
