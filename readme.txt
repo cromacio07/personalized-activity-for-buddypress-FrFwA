@@ -18,11 +18,11 @@ Makes Buddypress Activity Personalized For Users, by Including Activity Feeds On
  
 === Frequently Asked Questions ===
  
-== How do I use this plugin? ==
+=== How do I use this plugin? ===
  
 Just Keep the Plugin Activated, And Rest All will Be Taken Care by Us..!!
  
-== How to uninstall the plugin? ==
+=== How to uninstall the plugin? ===
  
 Simply deactivate and delete the plugin. 
  
